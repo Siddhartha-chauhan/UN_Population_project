@@ -29,7 +29,7 @@ The project demonstrates:
 
 ---
 
-## ⚙️ How to Run This Project
+⚙️ How to Run This Project
 
 Follow these steps to set up and execute the project on your system:
 
@@ -106,6 +106,7 @@ Displays population of all **10 ASEAN countries** from **2004–2014**, grouped 
 
 ## ✅ Code Quality
 This project follows Python best practices and uses **pylint** for linting.
+
 
 
 
